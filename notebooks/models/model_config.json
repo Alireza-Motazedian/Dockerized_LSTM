@@ -1,0 +1,19 @@
+{
+    "architecture": "vanilla_lstm",
+    "input_shape": [
+        30,
+        1
+    ],
+    "output_units": 1,
+    "activation": "linear",
+    "dropout_rate": 0.2,
+    "lstm_units": 128,
+    "compile": {
+        "optimizer": "adam",
+        "learning_rate": 0.01,
+        "loss": "mse",
+        "metrics": [
+            "mae"
+        ]
+    }
+}
