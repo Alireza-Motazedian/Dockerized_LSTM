@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="figures/logo.png" alt="logo" width="50%">
+    <img src="figures/Banner_LSTM.png" alt="Banner_LSTM" width="50%">
 </div>
 
 # Docker for Data Science Projects
